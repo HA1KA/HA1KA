@@ -90,7 +90,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-5K+-00d9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20Views-6K+-00d9ff?style=for-the-badge" />
 </p>
 
 <h3 align="center">⚡ "Code. Build. Optimize." ⚡</h3>
